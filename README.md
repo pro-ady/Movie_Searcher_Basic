@@ -6,7 +6,7 @@ A basic web application that uses the following libraries/frameworks to search f
 - ejs (npm)
 
 To find the information of the various movies it makes use of the [OMDb API](http://www.omdbapi.com/ "OMDb Homepage")
-Code can be modified by adding or subtracting parameters in the [results file](/views/results.ejs "result file"]
+Code can be modified by adding or subtracting parameters in the [results file](results.ejs "result file"]
 
 ---
 
